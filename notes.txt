@@ -12,3 +12,5 @@ http://localhost:3000/orders/1
 
 takes you to a tracking page for that order
 
+This is responsive on mobile but things go crazy on tablet
+The next iteration of this app will be fully responsive!
