@@ -1,0 +1,14 @@
+http://localhost:3000/product/1
+
+This will take you to a single product.
+If you click on small, medium or large the price changes
+
+http://localhost:3000/cart
+
+This takes you to the cart
+
+http://localhost:3000/orders/1
+
+
+takes you to a tracking page for that order
+
